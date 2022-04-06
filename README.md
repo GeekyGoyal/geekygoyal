@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekygoyal" alt="geekygoyal" /></a> </p>
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
+- 🌱 I’m currently learning **ReactJS**
 - 👯 I’m looking to collaborate on **Hackathons, Open-Source Projects, or Internships**
 - 📫 How to reach me **aparnagoyal.0003@gmail.com**
 - ⚡ Fun fact **I love exploring new technologies👀**
