@@ -11,8 +11,9 @@
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 🌱 I’m currently learning **ReactJS**
 - 👯 I’m looking to collaborate on **Hackathons, Open-Source Projects, or Internships**
+- 👀 **I love exploring new technologies**
 - 📫 How to reach me **aparnagoyal.0003@gmail.com**
-- ⚡ Fun fact **I love exploring new technologies👀**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
