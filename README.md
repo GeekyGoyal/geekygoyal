@@ -1,10 +1,8 @@
-### Heyo there 👋
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm Aparna Goyal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekygoyal&label=Profile%20views&color=0e75b6&style=flat" alt="geekygoyal" /> </p>
 
