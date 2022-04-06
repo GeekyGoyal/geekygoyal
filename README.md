@@ -13,8 +13,8 @@
   <br>
 
   <p align="center">
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" />
-  <!--<img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="200"> -->
+  <!-- <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /> -->
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="200">
  
   </p>
   </p>
@@ -27,15 +27,16 @@
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
   <br>
   <br>
+  </p>
 
   <p align="center">
   <img src="image\ISO_C++_Logo.svg" width="130"> 
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200">
-
+  </p>
 
   <!-- <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="100">  -->
-                                                                                 
+
 <br>
 <br>
                                                                                
@@ -56,7 +57,7 @@
 - 👀 **I love exploring new technologies**
 - 👯 I’m looking to collaborate on **Hackathons, Open-Source Projects, or Internships**
 - 📫 How to reach me **aparnagoyal.0003@gmail.com**
-- ⚡ Fun fact 
+- ⚡ Fun fact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
