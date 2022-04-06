@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekygoyal" alt="geekygoyal" /></a> </p>
 
 - 📫 How to reach me **aparnagoyal.0003@gmail.com**
+- ⚡ Fun fact **👀 I love exploring new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
