@@ -39,14 +39,6 @@
 
 <br>
 <br>
-                                                                               
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 🌱 I’m currently learning **ReactJS**
