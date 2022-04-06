@@ -48,8 +48,6 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekygoyal&label=Profile%20views&color=0e75b6&style=flat" alt="geekygoyal" /> </p>
-
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 🌱 I’m currently learning **ReactJS**
 - 👀 **I love exploring new technologies**
