@@ -75,7 +75,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeekyGoyal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
            
+![](https://komarev.com/ghpvc/?username=GeekyGoyal&color=44CC11)
 
 <!-- [![Aparna's github activity graph](https://activity-graph.herokuapp.com/graph?username=GeekyGoyal&theme=react-dark)](https://github.com/GeekyGoyal/github-readme-activity-graph) -->
 
-![](https://komarev.com/ghpvc/?username=GeekyGoyal&color=44CC11)
